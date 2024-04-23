@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8728061215444397185
+--- !u!114 &-2458890765394731120
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FogoMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 6a182450d9ac8314ab5c366f8045c0e6,
+  m_Name: FoguinhAgoraVaiMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 700e6af735a73e647ba5572ba410cff7,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -77,8 +77,8 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_714535f7d9ce4bdd848e5dacdc56f39a_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 63c96a4f4d79fc744872a9dfba093c60, type: 3}
+    - _SampleTexture2D_c567cd741c17471bbd6230cd6b4c89d9_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ba5aee8fc9d63f6479491bb013998d5d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -99,7 +99,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AlphaC: -0.71
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
@@ -111,7 +110,6 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distrocao: 1.44
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -132,7 +130,6 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _y: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
